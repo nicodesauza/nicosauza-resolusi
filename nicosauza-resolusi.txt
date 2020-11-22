@@ -1,8 +1,8 @@
 NICOSAUZA RESOLUSI
-- Git
 - Bikin PPT
 - React Native
 - Mengetahui sedikit banyak tentang backend 
 - Mengenal Adobe XD
 - Belajar facebook ads
 - Merapihkan website portfolio
+- Melakukan project aplikasi
