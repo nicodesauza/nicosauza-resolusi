@@ -4,3 +4,5 @@ NICOSAUZA RESOLUSI
 - React Native
 - Mengetahui sedikit banyak tentang backend 
 - Mengenal Adobe XD
+- Belajar facebook ads
+- Merapihkan website portfolio
